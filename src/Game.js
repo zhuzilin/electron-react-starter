@@ -1,4 +1,5 @@
 import React from 'react';
+import './Game.css';
 
 class Square extends React.Component {
     render() {
@@ -57,5 +58,4 @@ class Game extends React.Component {
     }
 }
 
-// ========================================
 export default Game;
