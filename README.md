@@ -47,6 +47,18 @@ yarn start
   electron with todo list example from <a href="https://redux.js.org/basics/exampletodolist">official website of redux</a>.
 </p>
 
+### v3.1
+```[shell]
+git checkout tag v3.1
+yarn start
+```
+<p align="center">
+    <img src="https://raw.githubusercontent.com/zhuzilin/electron-react-starter/master/img/v3_1.png" width="480">
+</p>
+<p align="center">
+  electron with reddit api example from <a href="https://redux.js.org/advanced/exampleredditapi">official website of redux</a>.
+</p>
+
 ## Building
 For building any version, simply use:
 ```[shell]
